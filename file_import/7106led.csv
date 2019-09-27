@@ -1,0 +1,23 @@
+Account;Position ID;Ticker;Size;Side;Open Type;Open Price;Open Time;Close Type;Close Price;Close Time;Swap;Commission;Gross Profit/Loss;Net Profit/Loss;Magic #;Comment
+REAL-7106;2612556;XAU/USD;0.5 lot;Buy;Market;1336.11;13.06.2019 14:30;Market;1427.71;25.06.2019 16:00;0;0;0;0;0;
+REAL-7106;2624061;WTI Crude Oil;500 lots;Buy;Market;52.54;18.06.2019 16:45;Market;59.31;26.06.2019 17:45;0;0;0;0;0;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+Account;Contract Id;Contract;Start day;Contracts count;Client investments (Crypto currency);Mining payouts (Crypto currency);Floating PnL (Crypto currency);Floating PnL per contract (Crypto currency);Current Bid price (Crypto currency);Closed at market PnL (Crypto currency);Client Gain;;;;;
+MINING-6463;1285505;Mining Bitcoin (USD);14.08.2019 15:43;22.4k;0.04270144;0.00863096 BTC;-0.03407047 BTC;-0.00000152 BTC;0.00000205 BTC;-0.01177752 BTC;18.83%;;417.257975;;1300.18506421760000;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+Account;Contract Id;Contract;Start day;Contracts count;Client investments (Crypto currency);Mining payouts (Crypto currency);Floating PnL (Crypto currency);Floating PnL per contract (Crypto currency);Current Bid price (Crypto currency);Closed at market PnL (Crypto currency);Client Gain;;;;;
+MINING-6463;1282542;Mining Bitcoin (USD);12.08.2019 12:51;51.2k;0.09035719;0.02166471 BTC;-0.06869248 BTC;-0.00000134 BTC;0.00000205 BTC;-0.03610293 BTC;20.67%;;882.9270892;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+Name;Currency;Owner User;Trading allowed;Hedging allowed;Swaps allowed;Comments;Balance;Equity;Floating P/L;Withdrawable balance;Withdrawable equity;LP Name;LP Bind Account;;;
+MINING-6463;BTC;levshin1952@mail.ru;Yes;Yes;Yes;;0.030444781;0.030444781;0;0.030444781;0.030444781;;;;;
+;;;;;;;;;;;;;;;;297.4917874
